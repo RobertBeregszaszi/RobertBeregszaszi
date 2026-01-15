@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, Robert here
 
-<!--
-**RobertBeregszaszi/RobertBeregszaszi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Machine Learning Engineer** | Python & PyTorch | Entry-level ML projects
 
-Here are some ideas to get you started:
+I'm on a journey learning machine learning from scratch. I enjoy building small projects, experimenting with datasets, and turning ideas into code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Tools
+- **Languages:** Python  
+- **ML & Data:** scikit-learn, PyTorch, NumPy, Pandas, Matplotlib  
+- **Other:** Git, GitHub, Jupyter Notebooks  
+
+---
+
+## 🛠️ Projects
+Here are a few projects I've been working on:
+
+- [**Wine Quality Regression**](https://github.com/RobertBeregszaszi/machine_learning_regression_project) – Predict wine quality using regression models with scikit-learn.  
+- [**ML Experiments**](https://github.com/RobertBeregszaszi/Machine_Learning) – Various classification and regression experiments to learn ML concepts.  
+
+> More projects coming soon as I continue learning! 🚀
+
+---
+
+## 📈 Learning Goals
+- Improve hands-on skills with PyTorch & deep learning  
+- Build end-to-end ML projects from data cleaning to deployment  
+- Explore data visualization & feature engineering techniques  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/robertberegszaszi/
+- Email: beregszaszi_robert@yahoo.com
