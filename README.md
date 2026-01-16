@@ -17,7 +17,7 @@ I'm on a journey learning machine learning from scratch. I enjoy building small 
 Here are a few projects I've been working on:
 
 - [**Wine Quality Regression**](https://github.com/RobertBeregszaszi/machine_learning_regression_project) – Predict wine quality using regression models with scikit-learn.  
-- [**ML Experiments**](https://github.com/RobertBeregszaszi/Machine_Learning) – Various classification and regression experiments to learn ML concepts.  
+- [**ML Experiments**](https://github.com/RobertBeregszaszi/Machine_Learning) – Various smaller tests and experiments.  
 
 > More projects coming soon as I continue learning! 🚀
 
