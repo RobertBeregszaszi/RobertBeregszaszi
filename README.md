@@ -18,7 +18,7 @@ Here are a few projects I've been working on:
 
 - [**Wine Quality Regression**](https://github.com/RobertBeregszaszi/machine_learning_regression_project) – Predict wine quality using regression models with scikit-learn.  
 - [**ML Experiments**](https://github.com/RobertBeregszaszi/Machine_Learning) – Various smaller tests and experiments.  
-- [**aircraft_recognition_chatbot (]https://github.com/RobertBeregszaszi/Aicraft-recognition-chatbot) - Computer Vision model to detect aircraft type and LLM to fetch info about it 
+- [**aircraft_recognition_chatbot] (https://github.com/RobertBeregszaszi/Aicraft-recognition-chatbot) - Computer Vision model to detect aircraft type and LLM to fetch info about it 
 > More projects coming soon as I continue learning! 🚀
 
 ---
